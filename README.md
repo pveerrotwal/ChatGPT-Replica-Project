@@ -34,6 +34,10 @@ This is the ChatGPT replica that allows users to engage with the AI model in rea
     - Your database should, at the very least, contain tables for Users, Chats, and Messages. The Messages table should record each user's queries and the corresponding AI replies.
 4. **API Connection:**
     - To populate the database, you need to connect to OpenAI’s API key.
-5. **Miscellaneous**:
-    - Conclude by hosting your website on a platform of your choice (e.g., Vercel, Netlify).
+
+*Hosted the website on a platform vercel:*
+
+"https://chat-gpt-replica-project-git-main-pveerrotwals-projects.vercel.app"
+
+   
 
