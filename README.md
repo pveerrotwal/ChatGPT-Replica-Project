@@ -1,9 +1,14 @@
 <h1>ChatGPT Replica using Supabase db and Openai API.</h1>
 This is the ChatGPT replica that allows users to engage with the AI model in real-time. The application closely resemble ChatGPT in terms of functionality and user experience, with a focus on user accounts and a record of previous interactions.
 
+***This is the assessment project for MINDCASE CO.***
+
 
 <h2>This Project is made by: Paramvir Rotwal</h2>
-This is the assessment project for MINDCASE CO. 
+
+
+
+<img width="981" alt="Screenshot 2023-11-30 at 7 36 50 PM" src="https://github.com/pveerrotwal/ChatGPT-Replica-Project/assets/108364147/260cfa67-1b4b-425a-b86a-4a7bec2e0df4">
 
 ## Getting Started
 
@@ -13,6 +18,11 @@ This is the assessment project for MINDCASE CO.
         - A text input section for posing questions to the AI.
         - A feature to fetch and display past interactions once the user logs in.
         - Options to initiate a new chat and erase prior chats, mirroring ChatGPT's functionality.
+     
+<img width="1135" alt="Screenshot 2023-11-30 at 7 37 22 PM" src="https://github.com/pveerrotwal/ChatGPT-Replica-Project/assets/108364147/5491ca6b-b425-4a20-9b12-5cb7cc562780">
+
+
+
 2. **Setup & Authentication**:
     - Start a project with **NextJS** (used `create-next-app` and not `create-react-app`).
     - Incorporate Supabase for user authentication:
