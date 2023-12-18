@@ -1,7 +1,6 @@
 <h1>ChatGPT Replica using Supabase db and Openai API.</h1>
 This is the ChatGPT replica that allows users to engage with the AI model in real-time. The application closely resemble ChatGPT in terms of functionality and user experience, with a focus on user accounts and a record of previous interactions.
 
-***This is the assessment project for MINDCASE CO.***
 
 
 <h2>This Project is made by: Paramvir Rotwal</h2>
